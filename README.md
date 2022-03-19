@@ -9,7 +9,7 @@
 If you want to follow the live updates come to [Discord](https://discord.gg/tgut7grRTV)
 
 ### Version now available
-- Body 2.5 (19/03/2022)
+- Hardware 2.5 (19/03/2022)
 - Firmware 0.26.4 (19/03/2022)
 
 ![](IMG/main.png)
