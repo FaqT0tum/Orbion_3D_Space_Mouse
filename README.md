@@ -1,4 +1,4 @@
-# Orbion The OpenSource Space Mouse
+# Orbion The OpenSource 3D Space Mouse
 
 [![GitHub issues](https://img.shields.io/github/issues/FaqT0tum/Orbion_3D_Space_Mouse.svg)](https://github.com/FaqT0tum/Orbion_3D_Space_Mouse/issues)
 [![Fork](https://img.shields.io/github/forks/FaqT0tum/Orbion_3D_Space_Mouse.svg)](#)
