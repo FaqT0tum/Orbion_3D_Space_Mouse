@@ -1,9 +1,9 @@
 # Orbion The OpenSource Space Mouse
 
-[![GitHub issues](https://img.shields.io/github/issues/FaqT0tum/Orbion_Space_Mouse.svg)](https://github.com/FaqT0tum/Orbion_Space_Mouse/issues)
-[![Fork](https://img.shields.io/github/forks/FaqT0tum/Orbion_Space_Mouse.svg)](#)
-[![Stars](https://img.shields.io/github/stars/FaqT0tum/Orbion_Space_Mouse.svg)](#)
-[![Total Downloads](https://img.shields.io/github/downloads/FaqT0tum/Orbion_Space_Mouse/total.svg)](https://github.com/FaqT0tum/Orbion_Space_Mouse/releases)
+[![GitHub issues](https://img.shields.io/github/issues/FaqT0tum/Orbion_3D_Space_Mouse.svg)](https://github.com/FaqT0tum/Orbion_3D_Space_Mouse/issues)
+[![Fork](https://img.shields.io/github/forks/FaqT0tum/Orbion_3D_Space_Mouse.svg)](#)
+[![Stars](https://img.shields.io/github/stars/FaqT0tum/Orbion_3D_Space_Mouse.svg)](#)
+[![Total Downloads](https://img.shields.io/github/downloads/FaqT0tum/Orbion_3D_Space_Mouse/total.svg)](https://github.comFaqT0tum/Orbion_3D_Space_Mouse/releases)
 
 ### Next news
 If you want to follow the live updates come to [Discord](https://discord.gg/tgut7grRTV)
