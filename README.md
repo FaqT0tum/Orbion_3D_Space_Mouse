@@ -14,6 +14,9 @@ If you want to follow the live updates come to [Discord](https://discord.gg/tgut
 
 ![](IMG/main.png)
 ![](IMG/orbion_stl_map.png)
+
+All parts can be printed in the material of your choice (pay attention to the shrinkage factor of ABS and ASA), except for the "cuschio" and "wire_clips" parts which must be in TPU Shore 95A or 85A
+
 ![](IMG/orbion_sch.png)
 ![](IMG/orbion_menu.png)
 
