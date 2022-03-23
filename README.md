@@ -20,6 +20,13 @@ All parts can be printed in the material of your choice (pay attention to the sh
 ![](IMG/orbion_sch.png)
 ![](IMG/orbion_menu.png)
 
+Conf Example (Fusion 360)
+- Set any key: SHIFT Key
+- Set Joy Mode: Autodesk
+- the other 3 buttons set them as you like
+
+doing so by moving the knob you will get the orbit, while if you hold down the key you have mapped as "SHIFT key" and moving the knob at the same time you will get the PAN
+
 # PAY ATTENTION
 
 For problems caused by badly produced components and wrong heights due to the calibration of printers not created Tickets as they are unique problems and not attributable to the project.
