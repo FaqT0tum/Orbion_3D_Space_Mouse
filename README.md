@@ -25,6 +25,13 @@ Conf Example (Fusion 360)
 
 doing so by moving the knob you will get the orbit, while if you hold down the key you have mapped as "SHIFT key" and moving the knob at the same time you will get the PAN
 
+# View the CAD from Browser
+
+### If you do not have the possibility to view the Orbion CAD model to facilitate your assembly or just out of curiosity, you can now access it from your browser via this [LINK](https://a360.co/3NWq3W3)
+
+![](IMG/orbion_fusion.jpeg)
+
+
 # PAY ATTENTION
 
 For problems caused by badly produced components and wrong heights due to the calibration of printers not created Tickets as they are unique problems and not attributable to the project.
