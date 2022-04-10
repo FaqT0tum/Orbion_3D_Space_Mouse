@@ -78,10 +78,10 @@ Cad & 3D sculptors supported (continuously updated):
 
 Componets:
 - M3x15 (3pcs)
-- M3x6 or M3x8 (2pcs)
+- M3x6 or M3x8 (5pcs)
 - M3x10 (4pcs)
 [M3 Kit](https://s.click.aliexpress.com/e/_9R4lDe)
-- [Insert 5x4 or 5x5 (Diameter x Height) M3 (10pcs)](https://s.click.aliexpress.com/e/_9yVx2u)
+- [Insert 5x4 or 5x5 (Diameter x Height) M3 (13pcs)](https://s.click.aliexpress.com/e/_9yVx2u)
 - [Oled 1.3" I2C](https://s.click.aliexpress.com/e/_AtYDV6)
 - [Encoder (KY-040)](https://s.click.aliexpress.com/e/_AmjV9a)
 - [Joystick (KY-023)](https://s.click.aliexpress.com/e/_A8hY9K) (important: the joystick shaft must be 4mm)
